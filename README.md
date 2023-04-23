@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haubm
 - 👀 I’m interested in Automation, Coding and Drawing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m having knowledge in C, python, and matlab
 - 📫 This is my email: bmhau.1471@gmail.com
 
